@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos lentos
+
+This log tracks the cryptographic history and versioning for the song **Besos lentos** (besos-lentos).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:07:11.899314 | `v1` | `7be5fbf94ae0f30a733c42f37aa2ddca35e1cb4740fc3160b0af6a76bd13e744` | `5cba1c4bb4b84d9dcad40b73d6cdb3f90a50f117ca1d338999e6da71fa517922` | `2026-06-17_besos-lentos-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
