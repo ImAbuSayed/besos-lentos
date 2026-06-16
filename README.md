@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-lentos/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Besos lentos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-lentos/) |
+| **Get License** | [Official Music Licensing for Besos lentos](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-lentos/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras de lejos, la noche ya nos llama
+> Tu cuerpo y el mío envueltos en esta trama
+> Dame esos besos lentos que mi alma reclama
+> Sabes que esta noche, baby, tú eres mi dama
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
